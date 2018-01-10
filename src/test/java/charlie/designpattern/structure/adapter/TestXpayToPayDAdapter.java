@@ -1,4 +1,4 @@
-package charlie.designpattern.structure.adaptor;
+package charlie.designpattern.structure.adapter;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package charlie.designpattern.structure.adaptor;
+package charlie.designpattern.structure.adapter;
 
 /**
  * Created by charlie on 09/01/2018.
