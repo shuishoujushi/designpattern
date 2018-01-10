@@ -1,5 +1,9 @@
 package charlie.designpattern.structure.proxy;
 
+import charlie.designpattern.structure.proxy.virtualproxy.Company;
+import charlie.designpattern.structure.proxy.virtualproxy.ContactList;
+import charlie.designpattern.structure.proxy.virtualproxy.ContactProxyImpl;
+import charlie.designpattern.structure.proxy.virtualproxy.Employee;
 import org.junit.Test;
 
 /**

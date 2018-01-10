@@ -1,4 +1,4 @@
-package charlie.designpattern.structure.proxy;
+package charlie.designpattern.structure.proxy.virtualproxy;
 
 /**
  * Created by charlie on 10/01/2018.

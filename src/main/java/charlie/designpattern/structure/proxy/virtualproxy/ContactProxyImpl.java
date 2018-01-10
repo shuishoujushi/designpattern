@@ -1,4 +1,4 @@
-package charlie.designpattern.structure.proxy;
+package charlie.designpattern.structure.proxy.virtualproxy;
 
 import java.util.List;
 
