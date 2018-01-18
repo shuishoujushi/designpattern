@@ -1,4 +1,4 @@
-package charlie.designpattern.behavior.command;
+package charlie.designpattern.behavior1.command;
 
 public class Engineer implements Command {
 

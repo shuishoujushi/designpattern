@@ -1,4 +1,4 @@
-package charlie.designpattern.behavior.state;
+package charlie.designpattern.behavior1.state;
 
 public class TestMain {
 

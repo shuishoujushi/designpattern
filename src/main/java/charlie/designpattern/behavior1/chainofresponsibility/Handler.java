@@ -1,4 +1,4 @@
-package charlie.designpattern.behavior.chainofresponsibility;
+package charlie.designpattern.behavior1.chainofresponsibility;
 
 public interface Handler {
 

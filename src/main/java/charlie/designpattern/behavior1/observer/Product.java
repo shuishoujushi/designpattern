@@ -1,4 +1,4 @@
-package charlie.designpattern.behavior.observer;
+package charlie.designpattern.behavior1.observer;
 
 import java.util.Observable;
 
