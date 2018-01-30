@@ -1,4 +1,4 @@
-package charlie.designpattern.behavior;
+package charlie.designpattern.behavior.state;
 
 import charlie.designpattern.behavior.state.Robot;
 import org.junit.Test;
